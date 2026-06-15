@@ -1,0 +1,6 @@
+.gemini/
+*.py
+*.bak
+*.jsonl
+*.log
+.history/
