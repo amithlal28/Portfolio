@@ -4,7 +4,9 @@
 *.jsonl
 *.log
 .history/
+.venv/
 
 # Resume & Framer Template
 Amith Lal Resume June 2026.pdf
+Amith Resume July.pdf
 swastikpradhan_framer_default.html
